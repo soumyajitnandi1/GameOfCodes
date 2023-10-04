@@ -31,10 +31,7 @@ long long unsigned * fact(int n,int *p)
 				*(a+dgt)=0;
 			}
 		}
-		//int q;
-		//for(q=dgt-1;q>=0;q--)
-		//	printf("%llu",*(a+q));
-		//printf("\n\n\n\n");
+
 		
 	}
 	*p=dgt;
