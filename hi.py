@@ -1,3 +1,4 @@
+#ok
 def intersect(l1,l2):
     a=[]
     for i in l1:
