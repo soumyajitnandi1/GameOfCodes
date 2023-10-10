@@ -1,4 +1,5 @@
 #ok
+#ok
 import random
 
 
